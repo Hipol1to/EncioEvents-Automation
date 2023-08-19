@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EncioEvents\\EncioEvents.csproj": {}
+    "C:\\Tests projects\\EncioEvents\\EncioEvents.csproj": {}
   },
   "projects": {
-    "C:\\EncioEvents\\EncioEvents.csproj": {
+    "C:\\Tests projects\\EncioEvents\\EncioEvents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EncioEvents\\EncioEvents.csproj",
+        "projectUniqueName": "C:\\Tests projects\\EncioEvents\\EncioEvents.csproj",
         "projectName": "EncioEvents",
-        "projectPath": "C:\\EncioEvents\\EncioEvents.csproj",
+        "projectPath": "C:\\Tests projects\\EncioEvents\\EncioEvents.csproj",
         "packagesPath": "C:\\Users\\Blackencio\\.nuget\\packages\\",
-        "outputPath": "C:\\EncioEvents\\obj\\",
+        "outputPath": "C:\\Tests projects\\EncioEvents\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Blackencio\\AppData\\Roaming\\NuGet\\NuGet.Config",
